@@ -1,3 +1,3 @@
-# Basic Java Slenenium Automation Project
-### Basic aotomation projects
+# Monster Project
+### Write some automation tests for Monster.com
 
